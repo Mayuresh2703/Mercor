@@ -21,13 +21,13 @@ first an index then click 'Create Collection'.
 API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses.
 
 Python Libraries used->
--Open ai
--nltk
--AutoTokenizer and AutoModel from transformers
--torch
--numpy
--GPT2Tokenizer, GPT2LMHeadModel from transformers
--IPyWidgets
+1. Open ai
+2. nltk
+3. AutoTokenizer and AutoModel from transformers
+4. torch
+5. numpy
+6. GPT2Tokenizer, GPT2LMHeadModel from transformers
+7. IPyWidgets
 
 In our code IPyWidgets is used as UI as it is HTML interactive widgets for Jupyter notebook.Each UI element in the library can respond to events and invokes specified event handler functions. They enhance the interactive feature of Jupyter notebook application.
 
